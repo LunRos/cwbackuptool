@@ -19,6 +19,8 @@ This tool is perfect for users who want to save their addon settings and data be
 
 ### **1. Download the Script**
 
+* Download the script from [here](https://github.com/LunRos/cwbackuptool/releases/download/Main/cwbackuptool.ps1) or the [releases](https://github.com/LunRos/cwbackuptool/releases/tag/Main).
+**OR**
 * Click on the `overwolf_backup.ps1` file in this GitHub repository.
 * Click the "Download raw file" button (or "Raw" then right-click and "Save as...").
 * Save the file somewhere you can easily find it, like your Desktop.
