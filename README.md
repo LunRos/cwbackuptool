@@ -4,6 +4,7 @@ A simple and easy-to-use PowerShell script for Windows that helps you back up an
 
 This tool is perfect for users who want to save their addon settings and data before reformatting a computer, moving to a new PC, or just want a safe backup.
 
+## THIS WILL NOT SYNC YOUR DATA ACROSS MULTIPLE DEVICES, ONLY BACKUP / RESTORE IS AVAILABLE.
 ---
 
 ## **Features**
