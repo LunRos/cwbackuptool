@@ -30,10 +30,16 @@ This tool is perfect for users who want to save their addon settings and data be
 
 ### **2. Run the Script**
 
-* Right-click on the `overwolf_backup.ps1` file.
-* Select **"Run with PowerShell"** from the context menu.
+> Because this file is downloaded from the internet, Windows protects you by blocking it. You must perform this one-time step to allow the script to run:
 
-> **First-Time User? Getting an Error?**
+* Right-click the `overwolf_backup.ps1` file.
+* Select **Properties**.
+* On the **General** tab, look at the bottom for **Security**.
+* Check the box that says **Unblock**.
+* Click **OK**.
+* Once unblocked, you can Right-click the `overwolf_backup.ps1` file and select **"Run with PowerShell"** from the context menu.
+
+> **Getting an Error?**
 > If you see a red error message mentioning "script execution", your system is blocking the script for security reasons. To fix this, you only need to do this once:
 >
 > 1.  Click the Start Menu and type `PowerShell`.
